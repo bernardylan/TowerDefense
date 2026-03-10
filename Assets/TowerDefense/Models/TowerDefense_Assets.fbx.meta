@@ -3,44 +3,9 @@ guid: 1e8736acca2aebc428be9439cd649049
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Black
-    second: {fileID: 2100000, guid: 9ca05073e126cc6489d67729cde82654, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Blue
-    second: {fileID: 2100000, guid: 42312ca6873ff8342957242d6e6175de, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Grey
-    second: {fileID: 2100000, guid: 9fe5231e592ffab40b819e8f2d33e03c, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Metal
-    second: {fileID: 2100000, guid: 577ca8bc35d38e0488bd6f8e522b57be, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Terre
-    second: {fileID: 2100000, guid: 1aa68baf0e128444fb2c0b10f7de6697, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Terre.001
-    second: {fileID: 2100000, guid: f84d4a90fc6941f46ba34e4decb699b7, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Verdure
-    second: {fileID: 2100000, guid: 6ab90d153c3a6f84ab32ef55f01eecaa, type: 2}
+  externalObjects: {}
   materials:
-    materialImportMode: 1
+    materialImportMode: 2
     materialName: 0
     materialSearch: 1
     materialLocation: 0
